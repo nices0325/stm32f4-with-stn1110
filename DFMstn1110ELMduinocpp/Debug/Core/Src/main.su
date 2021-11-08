@@ -1,0 +1,7 @@
+stn1110.h:283:7:STN1110::STN1110()	16	static
+main.cpp:57:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	16	static
+main.cpp:162:5:int main()	112	static
+main.cpp:313:6:void SystemClock_Config()	88	static
+main.cpp:360:6:void Error_Handler()	4	static,ignoring_inline_asm
+main.cpp:369:1:void __static_initialization_and_destruction_0(int, int)	16	static
+main.cpp:369:1:cpp)	8	static
